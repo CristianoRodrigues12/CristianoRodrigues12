@@ -1,11 +1,9 @@
  Olá! Eu sou o Cristiano Rodrigues 
 
-
-Here are some ideas to get you started:
-
 - 🔭 Hoje trabalho com Back-end
 - 🌱 Estudando C#
 - 📫 Contate-me no e-mail:rcristiano.leandro@gmail.com
+
 <div align="center">
   <a href="https://github.com/CristianoRodrigues12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?  username=CristianoRodrigues12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
