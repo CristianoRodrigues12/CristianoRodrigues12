@@ -1,7 +1,7 @@
  Olá! Eu sou o Cristiano Rodrigues 
 
 - 🔭 Hoje trabalho com Back-end
-- 🌱 Estudando C#
+- 🌱 Estudando Java, Node Js, TypeScript e JavaScript.
 - 📫 Contate-me no e-mail : rcristiano.leandro@gmail.com
 
 <div align="center">
